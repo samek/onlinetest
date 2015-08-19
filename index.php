@@ -1,3 +1,4 @@
 <?php
-// comment
-phpinfo();
+
+die("I can push in this repository");
+
